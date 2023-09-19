@@ -16,11 +16,11 @@ include("./assets/php/_prg.php");
     ?>
     <main>
         <?php include("./assets/php/_messages.php"); ?>
-        <section id="login">
-            <?php include("./assets/php/_login.php"); ?>
-        </section>
         <section id="features">
             <?php include("./assets/php/_features.php"); ?>
+        </section>
+        <section id="login">
+            <?php include("./assets/php/_login.php"); ?>
         </section>
     </main>
 </body>
