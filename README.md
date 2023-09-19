@@ -17,6 +17,6 @@ To test your game with injected variable values, ensure that your game is hosted
 
 Set the `url` variable in TuneFic to the url of your game. 
 
-Then, you can reference the tunefic object in your game code as you see fit. Just define the variables you want to include in Developer Mode, set those variables to experimental values in Designer Mode, and click the "Test this configuration" button to open your game with the specified configuration.
+Then, you can reference the tunefic object in your game code as you see fit. Just define the variables you want to include in Developer Mode, set those variables to experimental values in Designer Mode, and click the "Test this configuration" button to open your game with the specified configuration.  
 
-
+The website uses Parsedown to display this README in the browser.
