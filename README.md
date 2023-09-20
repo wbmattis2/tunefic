@@ -1,4 +1,4 @@
-# tunefic  
+# TuneFic  
 Website written in PHP for tuning and balancing of JavaScript games. Designed and developed by Benny Mattis.  
 
 ## Purpose
